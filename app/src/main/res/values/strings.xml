@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Testing_kamal</string>
+
+    <string name="login_header">Login Page</string>
+    <string name="username">User Name</string>
+    <string name="address">Address</string>
+    <string name="mobilno">Mobile No</string>
+    <string name="sex">Sex</string>
+
+    <string name="profile">Profile</string>
+    <string name="submit">Submit</string>
+</resources>
